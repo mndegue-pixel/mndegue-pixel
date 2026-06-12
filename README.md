@@ -9,7 +9,7 @@ Passionné par la conception de pipelines de données robustes, scalables et aut
 
 * **Data Pipelines & Streaming :** Apache Kafka, Python
 * **Transformation & Stockage :** dbt Core, Snowflake (Cortex AI integration)
-* **Infrastructure as Code & DevOps :** Terraform, Docker
+* **Infrastructure as Code & DevOps :** Terraform, Docker, ollame
 * **Environnement de Dev :** Cursor, Linux/Windows
 
 ---
